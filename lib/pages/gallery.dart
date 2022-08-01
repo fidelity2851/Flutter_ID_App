@@ -49,6 +49,30 @@ class _GalleryState extends State<Gallery> {
                 color: Colors.grey[300],
                 child: Image.asset('assets/gal (6).jpg'),
               ),
+              Container(
+                color: Colors.grey[300],
+                child: Image.asset('assets/gal (7).jpg'),
+              ),
+              Container(
+                color: Colors.grey[300],
+                child: Image.asset('assets/gal (8).jpg'),
+              ),
+              Container(
+                color: Colors.grey[300],
+                child: Image.asset('assets/gal (3).jpg'),
+              ),
+              Container(
+                color: Colors.grey[300],
+                child: Image.asset('assets/gal (4).jpg'),
+              ),
+              Container(
+                color: Colors.grey[300],
+                child: Image.asset('assets/gal (5).jpg'),
+              ),
+              Container(
+                color: Colors.grey[300],
+                child: Image.asset('assets/gal (6).jpg'),
+              ),
             ],
           )),
     );

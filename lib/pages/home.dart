@@ -13,10 +13,10 @@ class _HomeState extends State<Home> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Flutter ID',
+          'CODING SKILL ID',
           style: TextStyle(
             fontSize: 23.0,
-            fontWeight: FontWeight.w600,
+            fontWeight: FontWeight.w500,
             fontFamily: 'Poppins',
           ),
         ),
@@ -44,8 +44,8 @@ class _HomeState extends State<Home> {
               'NAME',
               style: TextStyle(
                   color: Colors.grey[400],
-                  fontSize: 15.0,
-                  fontWeight: FontWeight.w500,
+                  fontSize: 13.0,
+                  fontWeight: FontWeight.w700,
                   fontFamily: 'Poppins'),
             ),
             Text(
@@ -53,7 +53,7 @@ class _HomeState extends State<Home> {
               style: TextStyle(
                 color: Colors.grey[700],
                 fontSize: 25.0,
-                fontWeight: FontWeight.w400,
+                fontWeight: FontWeight.w500,
                 fontFamily: 'Poppins',
               ),
             ),
@@ -61,19 +61,19 @@ class _HomeState extends State<Home> {
               height: 20.0,
             ),
             Text(
-              'SKILL LEVEL',
+              'CODING SKILL LEVEL',
               style: TextStyle(
                   color: Colors.grey[400],
-                  fontSize: 15.0,
-                  fontWeight: FontWeight.w500,
+                  fontSize: 13.0,
+                  fontWeight: FontWeight.w700,
                   fontFamily: 'Poppins'),
             ),
             Text(
-              '30%',
+              '70%',
               style: TextStyle(
                 color: Colors.grey[700],
                 fontSize: 25.0,
-                fontWeight: FontWeight.w400,
+                fontWeight: FontWeight.w500,
                 fontFamily: 'Poppins',
               ),
             ),
@@ -84,8 +84,8 @@ class _HomeState extends State<Home> {
               'EMAIL',
               style: TextStyle(
                   color: Colors.grey[400],
-                  fontSize: 15.0,
-                  fontWeight: FontWeight.w500,
+                  fontSize: 13.0,
+                  fontWeight: FontWeight.w700,
                   fontFamily: 'Poppins'),
             ),
             Row(
